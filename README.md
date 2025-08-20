@@ -1,6 +1,10 @@
 # CLI-puzzle-game
-Develop puzzle games using "C++". Project Year: 2022
+Develop puzzle games using "C++". 
 
+## 📅 Project Info  
+- Developed: April 2022  
+- Note: This project was completed without the use of AI tools.
+  
 <h2>Preview images</h2>
 <h3>Main menu:</h3>
 <img width="247" height="178" alt="image" src="https://github.com/user-attachments/assets/4fb1bff6-db14-458e-bba4-f1e9bbfa3cce" />
