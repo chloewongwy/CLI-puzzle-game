@@ -1,4 +1,4 @@
-# CLI-puzzle-game
+# CLI-Puzzle-Game
 Develop puzzle games using "C++". 
 
 ## 📅 Project Info  
